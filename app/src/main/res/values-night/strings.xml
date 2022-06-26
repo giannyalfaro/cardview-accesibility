@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="soles_saving_account">Cuenta de ahorro soles</string>
+    <string name="soles_amount_account">S/ 2500.80</string>
+    <string name="soles_amount_account_two">S/ 2550.85</string>
+    <string name="bcp_number_account">N° de cuenta: 192-11303551-0-27</string>
+    <string name="bcp_number_two_account">N° de cuenta: 192-11303551-2-88</string>
+</resources>
